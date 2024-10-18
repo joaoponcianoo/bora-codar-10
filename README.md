@@ -1,1 +1,1 @@
-![Preview](./github/preview.jpg)
+![Preview](./.github/preview.jpg)
